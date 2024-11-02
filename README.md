@@ -2,8 +2,8 @@
 
 ## Todo
 
-[] Make it deployable
-[] scafolding basic ui with mock data
+[x] Make it deployable
+[x] scafolding basic ui with mock data
 [] Actually setup a database
 [] Attach a database to ui
 [] Add authentication
